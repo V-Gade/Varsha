@@ -30,5 +30,5 @@ window.addEventListener('scroll', function() {
 document.getElementById('contact-link').addEventListener('click', function(e) {
   e.preventDefault(); // Prevent the default link behavior
   var emailDisplay = document.getElementById('email-display');
-  emailDisplay.textContent = 'Email: gade.varsha12@gmail.com';
+  emailDisplay.textContent = 'Email: varsha.gade2412@gmail.com';
 });
